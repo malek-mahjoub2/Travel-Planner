@@ -29,3 +29,10 @@ Make sure you have the following installed on your computer:
 1. Clone this repository:
    ```bash
    git clone https://github.com/malek-mahjoub2/Travel-Planner.git
+
+# ChangeLogs
+
+## Changes Made
+- Added new features to the project.
+- Updated README.md file with project details.
+- Created the dev branch for testing new changes.
